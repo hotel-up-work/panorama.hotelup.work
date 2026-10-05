@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://panorama.webart.work/sitemap.xml
+Sitemap: https://panorama.hotelup.work/sitemap.xml
